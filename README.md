@@ -46,18 +46,26 @@ My goal is to continue leveraging my skills to solve data challenges and help bu
 
 <h2 align="left">Languages and Tools:</h2>
 
-<code><img width="90" height="60" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="50" height="60" src="https://github.com/user-attachments/assets/84a476bb-c61c-43d3-9a79-1fa8410d915d"></code>
+  <code><img width="110" height="60" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="90" height="60" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="90" height="60" src="https://github.com/user-attachments/assets/e83e31cd-528b-48c4-85f4-1030292c65f3"></code>
+  <code><img width="70" height="50" src="https://github.com/user-attachments/assets/bb4d9dde-66ba-4824-a11c-bdcc04a572fa"></code>
   <code><img width="90" height="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
-  <code><img width="90" height="60" src="https://www.svgrepo.com/show/353805/google-cloud.svg"></code>
-  <code><img width="100" height="60" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="90" height="60" src="https://logowik.com/content/uploads/images/amazon-redshift2247.jpg"></code>
+  <code><img width="90" height="50" src="https://www.svgrepo.com/show/353805/google-cloud.svg"></code>
+  <br>
+  <code><img width="70" height="60" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="90" height="50" src="https://logowik.com/content/uploads/images/amazon-redshift2247.jpg"></code>
   <code><img width="90" height="60" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code>
   <code><img width="90" height="60" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="90" height="60" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="90" height="60" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
   <code><img width="90" height="60" src="https://www.svgrepo.com/show/354427/tableau.svg"></code>
- <code><img width="90" height="60" src="https://github.com/user-attachments/assets/e83e31cd-528b-48c4-85f4-1030292c65f3"></code>
+  
+
+
+
+ 
  </h2>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreeabrb&show_icons=true&locale=en&layout=compact" alt="AndreeaBrB" /></p>
