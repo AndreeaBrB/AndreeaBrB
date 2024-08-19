@@ -63,16 +63,16 @@ My goal is to continue leveraging my skills to solve data challenges and help bu
   <code><img width="90" height="60" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="90" height="60" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
   <code><img width="90" height="60" src="https://www.svgrepo.com/show/354427/tableau.svg"></code>
-  
-
-
-
  
  </h2>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreeabrb&show_icons=true&locale=en&layout=compact" alt="AndreeaBrB" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreeabrb&show_icons=true&locale=en" alt="andreeabrb" /></p>
+<a>
+ <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=andreeabrb&show_icons=true&locale=en" alt="andreeabrb" /></p>
+<a>
+    <img width="45%" align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreeabrb&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </a>
+
+  <br>
 
 [![Andreea's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=andreeabrb&)](https://github.com/andreeabrb)
     
