@@ -67,13 +67,13 @@ My goal is to continue leveraging my skills to solve data challenges and help bu
  </h2>
 
 <a>
- <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=andreeabrb&show_icons=true&locale=en" alt="andreeabrb" /></p>
+ <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=andreeabrb&show_icons=true&locale=en" alt="andreeabrb" /></p>
 <a>
-    <img width="45%" align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreeabrb&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    <img width="45%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreeabrb&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
+  <img width="44%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreeabrb&show_icons=true&locale=en" alt="andreeabrb" /></p>
+<a>
 
-<img width="44%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreeabrb&show_icons=true&locale=en" alt="andreeabrb" /></p>
-    
 <h3 align="left">Support 👐</h3>
 <p><a href="https://www.buymeacoffee.com/AndreeaBrB"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andreeabrb" /></a></p><br><br>
 
