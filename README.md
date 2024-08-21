@@ -1,5 +1,5 @@
 
-![GitHub Banner](https://github.com/user-attachments/assets/35885fa3-59e1-4384-b8fa-f022bf2c5e04)
+![GitHub Banner](https://github.com/user-attachments/assets/9e1afa44-951d-4236-9e07-60f8fb114c37)
 
 <h1 align="center">👋Hi there! I'm Andreea Bărbuceanu</h1>
 
@@ -42,7 +42,7 @@ My goal is to continue leveraging my skills to solve data challenges and help bu
 
 *-* 💬 **Ask me about anything**, I am happy to help
 
-*-* 📫 How to reach me: **contact@owlvisionai.com**
+*-* 📫 How to reach me: **andreea@owlvisionai.com**
 
 <h2 align="left">Languages and Tools:</h2>
 
