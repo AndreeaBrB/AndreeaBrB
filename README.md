@@ -14,7 +14,7 @@
 
 <img width="50%" align="right" alt="Analytics with Precision, Insight with Vision Banner" src="https://github.com/user-attachments/assets/4841186c-f093-4824-8004-4b7fbcb155d8">
 
-I'm a professional Data Analyst with over 3 years of experience in transforming complex datasets into actionable insights. With a strong foundation in data analytics, I specialize in cleaning, organizing, and analyzing data to support strategic decision-making. My work is driven by a genuine curiosity and enthusiasm for data, and I take pride in ensuring that the insights I provide are accurate, reliable, and impactful. Here's a bit about what I do and what I love in the realm of data analytics.
+I'm a professional Data Analyst with over 1 year of experience in transforming complex datasets into actionable insights. With a strong foundation in data analytics, I specialize in cleaning, organizing, and analyzing data to support strategic decision-making. My work is driven by a genuine curiosity and enthusiasm for data, and I take pride in ensuring that the insights I provide are accurate, reliable, and impactful. Here's a bit about what I do and what I love in the realm of data analytics.
 
 Here are some of the technologies I've worked with:
 
